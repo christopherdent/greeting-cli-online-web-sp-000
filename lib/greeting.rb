@@ -1,5 +1,5 @@
 def greeting (name)
-  print "Hello #{name}. It's nice to meet you.".strip
+  p "Hello #{name}. It's nice to meet you.".strip
 end
 
 greeting("Chris")
